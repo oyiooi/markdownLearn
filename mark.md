@@ -10,4 +10,4 @@
 3. third
 
 ## 图片
-![baidu](https://www.baidu.com/img/flexible/logo/pc/result.png)
+<center>![baidu](https://www.baidu.com/img/flexible/logo/pc/result.png)</center>
