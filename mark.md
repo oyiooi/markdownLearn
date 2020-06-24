@@ -1,6 +1,6 @@
-*MarkDown 联系文档*
+#MarkDown 联系文档
 ----
-**列表**
+##列表
 * first
 * second
   1. ~~删除~~
@@ -9,5 +9,5 @@
 2. second
 3. third
 
-***图片***
+##图片
 ![baidu](https://www.baidu.com/img/flexible/logo/pc/result.png)
